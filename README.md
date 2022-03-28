@@ -1,3 +1,7 @@
+
+[Hi, I'm Ramses](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
+
+
 - 👋 Hi, I’m @ramses2888
 - 👀 I’m interested in work on artificial intelligence and machine learning projects
 - 🌱 I’m currently learning artificial intelligence and machine learning topics, and IOT device programming
