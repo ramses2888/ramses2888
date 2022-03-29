@@ -115,7 +115,7 @@ with control on the web.
     </td>
      <td align="center"  width="96">
       <a href="#">
-        <img src="https://en.wikipedia.org/wiki/Arduino#/media/File:Arduino_Logo.svg" width="48" height="48" alt="Arduino" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/arduino/arduino-icon.svg" width="48" height="48" alt="Arduino" />
       </a>
       <br>Arduino
     </td>
