@@ -1,4 +1,4 @@
-![Hi, I'm Ramses](https://github.com/ramses2888/ramses2888/issues/1#issue-1184147456)
+
 
 <h1 align="center">Hi 👋, I'm Ramses</h1>
 
