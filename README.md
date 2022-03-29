@@ -43,14 +43,14 @@ with control on the web.
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
       </a>
       <br>ReactJS
+      </tr>
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
-  </tr>
-    </td>
+      </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
@@ -68,6 +68,7 @@ with control on the web.
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="48" height="48" alt="Postgresql" />
       </a>
       <br>Postgresql
+      </tr>
     </td>    
     <td align="center"  width="96">
       <a href="#">
@@ -81,8 +82,7 @@ with control on the web.
       </a>
       <br>npm
     </td>
-  </tr>
-    <td align="center"  width="96">
+      <td align="center"  width="96">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="48" height="48" alt="Material UI" />
       </a>
@@ -93,6 +93,7 @@ with control on the web.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
+      </tr>
     </td>
     <td align="center"  width="96">
       <a href="#">
