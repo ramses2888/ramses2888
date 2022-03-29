@@ -1,5 +1,5 @@
 
-![Hi, I'm Wanda](https://github.com/ramses2888/ramses2888/blob/main/assets/hola.mp4)
+![Hi, I'm Wanda](https://github.com/ramses2888/ramses2888/issues/1)
 
 <h2 align="center">
 Full Stack Developer :heart: from Argentina to :earth_americas:
