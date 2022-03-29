@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 <h1 align="center">Hi 👋, I'm Ramses</h1>
 
 <br>
@@ -124,13 +124,7 @@ with control on the web.
 
 
 
-=======
-![Hi, I'm Wanda](https://github.com/ramses2888/ramses2888/blob/main/assets/ram.gif.gif)
 
-<h2 align="center">
-Full Stack Developer :heart: from Argentina to :earth_americas:
-</h2>
->>>>>>> 9eef5bee095aa7e7c15ad4e839429ff89f2b1415
 
 <!---
 ramses2888/ramses2888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
