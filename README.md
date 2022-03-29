@@ -1,12 +1,9 @@
 
 [Hi, I'm Ramses](https://github.com/ramses2888/ramses2888/blob/main/assets/hi.gif)
 
-
-- 👋 Hi, I’m @ramses2888
-- 👀 I’m interested in work on artificial intelligence and machine learning projects
-- 🌱 I’m currently learning artificial intelligence and machine learning topics, and IOT device programming
-- 💞️ I’m looking to collaborate In a machine learning project
-- 📫 How to reach me?... my wathsapp is +573227266957
+<h2 align="center">
+Full Stack Developer :heart: from Argentina to :earth_americas:
+</h2>
 
 <!---
 ramses2888/ramses2888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
