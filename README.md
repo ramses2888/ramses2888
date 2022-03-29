@@ -99,9 +99,9 @@ with control on the web.
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
       </a>
-      <br>Postman
+      <br>AWS
     </td>
     <td align="center"  width="96">
       <a href="#">
