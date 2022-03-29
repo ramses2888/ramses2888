@@ -12,7 +12,9 @@ Passionate about the web world, I am constantly learning
 the technologies that are required to integrate the real world 
 with control on the web.
 
-<h2>Machine Learning  -  Internet of Things</h2>
+<h2>Machine Learning</h2>
+<h2>Internet of Things</h2>
+<h2>Artificial Intelligence</h2>
 
 ### 🛠 Languages and Tools
 
